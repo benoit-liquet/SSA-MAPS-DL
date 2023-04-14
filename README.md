@@ -63,13 +63,13 @@ we use google collab to share code:
 
     - [Deep Neural network: Tutorial 1](https://colab.research.google.com/drive/1Qn88dyZXHhwqoLnGcNaHq510eDEjxau7?usp=sharing)
           
-    - [Deep Neural network: Tutorial 2](https://colab.research.google.com/drive/1UgQSb3lGnxsTf1WBzH8jxusZs5rema88?usp=sharing)
+    - [Deep Neural network: Tutorial 2](https://colab.research.google.com/drive/1Msg2GDt5P0kB0MVPSPUcGZGIxDjOgoDb?usp=sharing)
 
 - Part 2: Convolutional Neural Networks
 
-    - [Convolutional Neural Networks: Tutorial 1](https://colab.research.google.com/drive/1UgQSb3lGnxsTf1WBzH8jxusZs5rema88?usp=sharing)
+    - [Convolutional Neural Networks: Tutorial 1](https:)
           
-    - [Convolutional Neural Networks: Tutorial 2](https://colab.research.google.com/drive/1UgQSb3lGnxsTf1WBzH8jxusZs5rema88?usp=sharing)
+    - [Convolutional Neural Networks: Tutorial 2](https:)
    
 - Part 3: Sequence Models
     
