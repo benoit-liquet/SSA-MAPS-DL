@@ -70,6 +70,7 @@ we use google collab to share code:
 - Part 2: [Convolutional Neural Networks: Tutorial 1](https://colab.research.google.com/drive/1UgQSb3lGnxsTf1WBzH8jxusZs5rema88?usp=sharing)
           [Convolutional Neural Networks: Tutorial 2](https://colab.research.google.com/drive/1UgQSb3lGnxsTf1WBzH8jxusZs5rema88?usp=sharing)
    
-- Part 3: [Sequence Models: tutorial 1](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
-          [Sequence Models: tutorial 2](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
+- Part 3: 
+    - [Sequence Models: tutorial 1](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
+    - [Sequence Models: tutorial 2](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
 
