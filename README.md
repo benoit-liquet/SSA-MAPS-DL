@@ -51,13 +51,8 @@ install.packages("ggbubr")
 
 ## Data file to download from DATA folder
 
-- ``versatile-boundaries.RData``
 - ``Breast_cancer.RData``
-- ``train-images.idx3-ubyt``
-- ``train-labels.idx1-ubyte``
-- ``t10k-images.idx3-ubyte``
-- ``t10k-labels.idx1-ubyte``
-- ``data-poly.Rdata``
+- ``jena_climate_2009_2016.csv.zip``
 
 
 # Python user
