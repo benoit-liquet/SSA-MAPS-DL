@@ -57,7 +57,7 @@ install.packages("ggbubr")
 
 # Python user
 
-we use google collab to share code:
+We use google collab to share code:
 
 - Part 1: Deep Neural network
 
