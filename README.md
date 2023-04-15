@@ -75,5 +75,5 @@ We use google collab to share code:
     
     - [Sequence Models: tutorial 1](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
     
-    - [Sequence Models: tutorial 2](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
+    - [Sequence Models: tutorial 2](https://colab.research.google.com/drive/1R_T_klRPjp0x2k715zVcxGbXBPbGz9cx?usp=sharing)
 
