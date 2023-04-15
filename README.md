@@ -76,7 +76,7 @@ We use google collab to share code:
 
     - [Convolutional Neural Networks: Tutorial 1](https:)
           
-    - [Convolutional Neural Networks: Tutorial 2]([https:](https://colab.research.google.com/drive/1qgL6EU24i1ERR2I0qpETqnIGw1fKC7-K?usp=sharing)
+    - [Convolutional Neural Networks: Tutorial 2](https://colab.research.google.com/drive/1qgL6EU24i1ERR2I0qpETqnIGw1fKC7-K?usp=sharing)
    
 - Part 3: Sequence Models
     
