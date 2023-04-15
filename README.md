@@ -24,6 +24,13 @@ Please make sure that you have  recent R and RStudio installed.
 
 ## R Packages 
 
+- IMPORTANT R PACKAGES TO BE INSTALLED
+
+```{r,eval=FALSE}
+install.packages("keras")
+install.packages("tensorflow")
+```
+
 - R packages to be installed before workshop
 
 ```{r,eval=FALSE}
